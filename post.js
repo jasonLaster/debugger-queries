@@ -1,11 +1,13 @@
-let prs = require("./prs.json");
+let febPRs = require("./data/february_prs.json");
+let marchPRs = require("./data/march_prs.json");
 
+let prs = febPRs.concat(marchPRs)
 
 let titles = [];
 let urls = [];
 
-const startDate = new Date("2/21/2017");
-const endDate = new Date("2/28/2017");
+const startDate = new Date("3/1/2017");
+const endDate = new Date("3/6/2017");
 
 prs = prs.filter(pr => {
   const d = new Date(pr.date)
@@ -15,7 +17,7 @@ prs = prs.filter(pr => {
 })
 
 prs.forEach((pr, index) => {
-  titles.push(`* [${pr.title}][pr-${index}] - [@${pr.login}]`)
+  titles.push(`* ${pr.date} [${pr.title}][pr-${index}] - [@${pr.login}]`)
   urls.push(`[pr-${index}]:${pr.url}`)
 })
 

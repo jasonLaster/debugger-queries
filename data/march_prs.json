@@ -1,0 +1,158 @@
+[
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2225",
+    "title": "Persist Pause On Exceptions",
+    "login": "jasonLaster",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2236",
+    "title": "Add parsing support for ES6 object method shorthand and class methods.",
+    "login": "wldcordeiro",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2223",
+    "title": "Fix border stacking for the result list in function search.",
+    "login": "wldcordeiro",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2217",
+    "title": "Extract getScopes + Refactor returnvalue tests",
+    "login": "jasonLaster",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2243",
+    "title": "Enable features + style tweaks",
+    "login": "jasonLaster",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2244",
+    "title": "Fix the copy-assets script to support an absolute path to m-c, and su…",
+    "login": "julienw",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2237",
+    "title": "Fix #2235 : Fix close button display for watch expression",
+    "login": "ThomasCrevoisier",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2246",
+    "title": "Update devtools-reps to the latest version 🚀",
+    "login": "greenkeeper[bot]",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2234",
+    "title": "Function Search wins",
+    "login": "jasonLaster",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2224",
+    "title": "Popover tip and position",
+    "login": "amitzur",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2229",
+    "title": "Polish dark theme ui",
+    "login": "jcreighton",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2222",
+    "title": "Fix Tab Dropdown in RTL Mode",
+    "login": "zystvan",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2261",
+    "title": "bump launchpad",
+    "login": "jasonLaster",
+    "date": "03/02/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2254",
+    "title": "disable all new debugger tests on debug platforms",
+    "login": "juliandescottes",
+    "date": "03/02/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2252",
+    "title": "Polish overlay clearing",
+    "login": "wldcordeiro",
+    "date": "03/02/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2259",
+    "title": "revert wtr conversion",
+    "login": "jasonLaster",
+    "date": "03/02/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2253",
+    "title": "Add variables.css to debugger.html and remove references to undefined css var",
+    "login": "juliandescottes",
+    "date": "03/02/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2245",
+    "title": "Change the breakpoint used to switch between horizontal and vertical …",
+    "login": "julienw",
+    "date": "03/02/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2255",
+    "title": "Quote property names when required",
+    "login": "tromey",
+    "date": "03/03/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2250",
+    "title": "Rework function parser helpers into symbol parser helpers that parse functions, variables, and classes",
+    "login": "wldcordeiro",
+    "date": "03/03/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2270",
+    "title": "Fixed max-height in Result List",
+    "login": "AlanCezarAraujo",
+    "date": "03/03/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2273",
+    "title": "Fix linting table",
+    "login": "wldcordeiro",
+    "date": "03/03/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2272",
+    "title": "[SourceTabs] Center tab close button and increase its size",
+    "login": "irfanhudda",
+    "date": "03/04/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2275",
+    "title": "Remove unused expressions field",
+    "login": "jasonLaster",
+    "date": "03/05/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2276",
+    "title": "remove isVisible checks",
+    "login": "jasonLaster",
+    "date": "03/05/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2286",
+    "title": "Hardcoded string to contants in actions/sources",
+    "login": "rrandom",
+    "date": "03/05/2017"
+  }
+]

@@ -3,7 +3,7 @@ var bigquery = gcloud.bigquery;
 
 var bigqueryClient = bigquery({
   projectId: 'lateral-now-156717',
-  keyFilename: 'api-key.json'
+  keyFilename: './api-key.json'
 });
 
 
