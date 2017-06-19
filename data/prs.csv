@@ -1,0 +1,50 @@
+url,title,login,date
+https://github.com/devtools-html/debugger.html/pull/3057,[WIP] Refactor Preview,jasonLaster,06/01/2017
+https://github.com/devtools-html/debugger.html/pull/3051,Highlight Lines V1,jasonLaster,06/01/2017
+https://github.com/devtools-html/debugger.html/pull/3064,Promise fixes,jasonLaster,06/02/2017
+https://github.com/devtools-html/debugger.html/pull/3061,Fix DOM event properties not showing up in the OI,bomsy,06/02/2017
+https://github.com/devtools-html/debugger.html/pull/3067,Disable active line,jasonLaster,06/02/2017
+https://github.com/devtools-html/debugger.html/pull/3060,fix annoying expression duplicate keys warning,bomsy,06/02/2017
+https://github.com/devtools-html/debugger.html/pull/3062,Update devtools-license-check to the latest version 🚀,greenkeeper[bot],06/02/2017
+https://github.com/devtools-html/debugger.html/pull/3065,Fix input font size,jasonLaster,06/02/2017
+https://github.com/devtools-html/debugger.html/pull/3077,[Frames] Show collapse row button when there are more than NUM_FRAMES_SHOWN frames,irfanhudda,06/03/2017
+https://github.com/devtools-html/debugger.html/pull/3079,[ObjectInspector] Vertically align variable keys when inspecting objects,peterschussheim,06/04/2017
+https://github.com/devtools-html/debugger.html/pull/3086,bump percy,jasonLaster,06/05/2017
+https://github.com/devtools-html/debugger.html/pull/3081,[WIP] consolidate source text,jasonLaster,06/05/2017
+https://github.com/devtools-html/debugger.html/pull/3039,"[Breakpoints] + [SourceMaps] breakpoints are out of sync with the server on reload       ",codehag,06/05/2017
+https://github.com/devtools-html/debugger.html/pull/3082,cleanup source tree,jasonLaster,06/05/2017
+https://github.com/devtools-html/debugger.html/pull/3087,Add footer tabs to sources pane for outline view,amelzer,06/05/2017
+https://github.com/devtools-html/debugger.html/pull/3089,Project Search (components),jasonLaster,06/05/2017
+https://github.com/devtools-html/debugger.html/pull/3101,Polish conditional breakpoint,zaggy,06/06/2017
+https://github.com/devtools-html/debugger.html/pull/3114,fix null,jasonLaster,06/06/2017
+https://github.com/devtools-html/debugger.html/pull/3102,Use \react-dom\ instead of \../../node_modules/react-dom/dist/react-dom\,codehag,06/06/2017
+https://github.com/devtools-html/debugger.html/pull/3104,Move getClosestExpression into worker,ryanjduffy,06/06/2017
+https://github.com/devtools-html/debugger.html/pull/3099,fix object property styling on window property names (#2946),jbhoosreddy,06/06/2017
+https://github.com/devtools-html/debugger.html/pull/3105,add june 6th update,jasonLaster,06/06/2017
+https://github.com/devtools-html/debugger.html/pull/3098,Release a new version of the debugger,jasonLaster,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3126,Continue conversion from commonjs to es modules,peterschussheim,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3125,bump prettier,jasonLaster,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3117,[FunctionSearch] clear query after selecting an item #2526,ofiron01,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3121,Bug/2963 search shows no results after switching to another tool and switching back to debugger,codehag,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3115,Get environment,jasonLaster,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3124," remove getVisibleVariablesFromScope",jasonLaster,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3122,fix actions/ast test,jasonLaster,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3113,Revert breakpoint clearing,jasonLaster,06/07/2017
+https://github.com/devtools-html/debugger.html/pull/3120,Remove column breakpoint,anbarasiu,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3127,#3083: change 'Copy Link Address' id,borisstgermain,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3031,Q3 Roadmap,jasonLaster,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3134,Switch to use greenkeeper-lockfile-update for yarn.lock file,clarkbw,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3131,replace commonjs with imports,jasonLaster,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3136,style exceptions in WhyPaused as red,zaggy,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3133,bump launchpad to 83,jasonLaster,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3119,[WhyPaused] Move why paused to the call stack,zaggy,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3129," #2980 added lodash and underscore detection",andreicristianpetcu,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3137,stop folding in the panel,jasonLaster,06/08/2017
+https://github.com/devtools-html/debugger.html/pull/3139,Create search worker,jasonLaster,06/09/2017
+https://github.com/devtools-html/debugger.html/pull/3149,fix(package): update devtools-launchpad to version 0.0.84,jasonLaster,06/09/2017
+https://github.com/devtools-html/debugger.html/pull/3142,Update outdated deps,clarkbw,06/09/2017
+https://github.com/devtools-html/debugger.html/pull/3147,Fix 3146 - editor occassionaly doesn't jump to a line,jasonLaster,06/09/2017
+https://github.com/devtools-html/debugger.html/pull/3157,Add void types,jasonLaster,06/12/2017
+https://github.com/devtools-html/debugger.html/pull/3128,Style functions in outline view,amelzer,06/12/2017
+https://github.com/devtools-html/debugger.html/pull/3155,Bump flow bin version,zaggy,06/12/2017
+https://github.com/devtools-html/debugger.html/pull/3153,Search bar doesn't get focus if already open,amitzur,06/12/2017

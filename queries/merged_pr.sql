@@ -3,7 +3,8 @@ SELECT
   title,
   login,
   date
-FROM (
+FROM
+(
   SELECT
     REPLACE(JSON_EXTRACT(payload, "$.action"), "\"", "") as action,
     REPLACE(JSON_EXTRACT(payload, "$.pull_request.html_url"), "\"", "") as url,
@@ -12,12 +13,11 @@ FROM (
     REPLACE(JSON_EXTRACT(payload, "$.pull_request.merged"), "\"", "") as merged,
     STRFTIME_UTC_USEC(created_at, "%m/%d/%Y") as date
 
-  FROM [lateral-now-156717:dbg.february_activity2]
+  FROM [lateral-now-156717:dbg.april_activity]
   where type = "PullRequestEvent"
-  LIMIT 10000
-),
+)
 
 where action = "closed" and merged = "true"
 order by date
 
-LIMIT 1000;
+LIMIT 3000;

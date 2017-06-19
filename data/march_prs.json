@@ -1,38 +1,14 @@
 [
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2225",
-    "title": "Persist Pause On Exceptions",
-    "login": "jasonLaster",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2224",
+    "title": "Popover tip and position",
+    "login": "amitzur",
     "date": "03/01/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2236",
-    "title": "Add parsing support for ES6 object method shorthand and class methods.",
-    "login": "wldcordeiro",
-    "date": "03/01/2017"
-  },
-  {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2223",
-    "title": "Fix border stacking for the result list in function search.",
-    "login": "wldcordeiro",
-    "date": "03/01/2017"
-  },
-  {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2217",
-    "title": "Extract getScopes + Refactor returnvalue tests",
-    "login": "jasonLaster",
-    "date": "03/01/2017"
-  },
-  {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2243",
-    "title": "Enable features + style tweaks",
-    "login": "jasonLaster",
-    "date": "03/01/2017"
-  },
-  {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2244",
-    "title": "Fix the copy-assets script to support an absolute path to m-c, and su…",
-    "login": "julienw",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2229",
+    "title": "Polish dark theme ui",
+    "login": "jcreighton",
     "date": "03/01/2017"
   },
   {
@@ -54,15 +30,21 @@
     "date": "03/01/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2224",
-    "title": "Popover tip and position",
-    "login": "amitzur",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2225",
+    "title": "Persist Pause On Exceptions",
+    "login": "jasonLaster",
     "date": "03/01/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2229",
-    "title": "Polish dark theme ui",
-    "login": "jcreighton",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2236",
+    "title": "Add parsing support for ES6 object method shorthand and class methods.",
+    "login": "wldcordeiro",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2243",
+    "title": "Enable features + style tweaks",
+    "login": "jasonLaster",
     "date": "03/01/2017"
   },
   {
@@ -72,21 +54,33 @@
     "date": "03/01/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2261",
-    "title": "bump launchpad",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2244",
+    "title": "Fix the copy-assets script to support an absolute path to m-c, and su…",
+    "login": "julienw",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2217",
+    "title": "Extract getScopes + Refactor returnvalue tests",
     "login": "jasonLaster",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2223",
+    "title": "Fix border stacking for the result list in function search.",
+    "login": "wldcordeiro",
+    "date": "03/01/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2252",
+    "title": "Polish overlay clearing",
+    "login": "wldcordeiro",
     "date": "03/02/2017"
   },
   {
     "url": "https://github.com/devtools-html/debugger.html/pull/2254",
     "title": "disable all new debugger tests on debug platforms",
     "login": "juliandescottes",
-    "date": "03/02/2017"
-  },
-  {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2252",
-    "title": "Polish overlay clearing",
-    "login": "wldcordeiro",
     "date": "03/02/2017"
   },
   {
@@ -102,6 +96,12 @@
     "date": "03/02/2017"
   },
   {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2261",
+    "title": "bump launchpad",
+    "login": "jasonLaster",
+    "date": "03/02/2017"
+  },
+  {
     "url": "https://github.com/devtools-html/debugger.html/pull/2245",
     "title": "Change the breakpoint used to switch between horizontal and vertical …",
     "login": "julienw",
@@ -114,8 +114,8 @@
     "date": "03/03/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2250",
-    "title": "Rework function parser helpers into symbol parser helpers that parse functions, variables, and classes",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2273",
+    "title": "Fix linting table",
     "login": "wldcordeiro",
     "date": "03/03/2017"
   },
@@ -126,8 +126,8 @@
     "date": "03/03/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2273",
-    "title": "Fix linting table",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2250",
+    "title": "Rework function parser helpers into symbol parser helpers that parse functions, variables, and classes",
     "login": "wldcordeiro",
     "date": "03/03/2017"
   },
@@ -138,9 +138,9 @@
     "date": "03/04/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2275",
-    "title": "Remove unused expressions field",
-    "login": "jasonLaster",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2286",
+    "title": "Hardcoded string to contants in actions/sources",
+    "login": "rrandom",
     "date": "03/05/2017"
   },
   {
@@ -150,9 +150,561 @@
     "date": "03/05/2017"
   },
   {
-    "url": "https://github.com/devtools-html/debugger.html/pull/2286",
-    "title": "Hardcoded string to contants in actions/sources",
-    "login": "rrandom",
+    "url": "https://github.com/devtools-html/debugger.html/pull/2275",
+    "title": "Remove unused expressions field",
+    "login": "jasonLaster",
     "date": "03/05/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2292",
+    "title": "version debugger",
+    "login": "jasonLaster",
+    "date": "03/06/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2289",
+    "title": "Update devtools-reps to the latest version 🚀",
+    "login": "greenkeeper[bot]",
+    "date": "03/06/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2285",
+    "title": "February 28th",
+    "login": "jasonLaster",
+    "date": "03/06/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2298",
+    "title": "Updates 3/7",
+    "login": "jasonLaster",
+    "date": "03/07/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2295",
+    "title": "Add flow to ObjectInspector.js, Rep.js, Svg.js,...",
+    "login": "arthur801031",
+    "date": "03/07/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2301",
+    "title": "Increase pane toggle button size and margin",
+    "login": "DanUgelow",
+    "date": "03/08/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2251",
+    "title": "Variable and Class Search UI",
+    "login": "wldcordeiro",
+    "date": "03/08/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2288",
+    "title": "(WIP) Tweak the search bar appearance",
+    "login": "jasonLaster",
+    "date": "03/08/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2303",
+    "title": "addExpression expected string not object",
+    "login": "jcreighton",
+    "date": "03/08/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2311",
+    "title": "Accidentally used the placeholder L10N strings in place of the button labels",
+    "login": "wldcordeiro",
+    "date": "03/08/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2308",
+    "title": "Fix command bar background",
+    "login": "jasonLaster",
+    "date": "03/08/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2314",
+    "title": "Make close button appear correctly upon opening the conditional panel",
+    "login": "aklt",
+    "date": "03/09/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2297",
+    "title": "Wip member expressions 2",
+    "login": "bomsy",
+    "date": "03/09/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2327",
+    "title": "Update devtools-launchpad to the latest version 🚀",
+    "login": "greenkeeper[bot]",
+    "date": "03/10/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2315",
+    "title": "Feat/migrate tests to jest",
+    "login": "montogeek",
+    "date": "03/10/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2322",
+    "title": "Bump launchpad to 54",
+    "login": "jasonLaster",
+    "date": "03/10/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2247",
+    "title": "[EditorSearch] cmd+f without a selection should refocus the search bar",
+    "login": "aklt",
+    "date": "03/10/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2330",
+    "title": "Update debugging-the-debugger.md",
+    "login": "MarkPollmann",
+    "date": "03/10/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2337",
+    "title": "fix the object inspector bug",
+    "login": "bomsy",
+    "date": "03/11/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2328",
+    "title": "fix for bucket range showing up backwards",
+    "login": "MarkPollmann",
+    "date": "03/11/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2340",
+    "title": "show `this` when it’s in scope",
+    "login": "jcreighton",
+    "date": "03/11/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2325",
+    "title": "Fix editor context menu",
+    "login": "jasonLaster",
+    "date": "03/11/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2313",
+    "title": "add clojure syntax mode for editor (#2307)",
+    "login": "jbhoosreddy",
+    "date": "03/11/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2338",
+    "title": "Follow up actors fix",
+    "login": "bomsy",
+    "date": "03/11/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2343",
+    "title": "Fix failing test on windows",
+    "login": "rrandom",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2345",
+    "title": "Refactor(ES6) src/components/Sources.js",
+    "login": "AnshulMalik",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2329",
+    "title": "Use devtools-source-map package, remove extracted files",
+    "login": "jryans",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2346",
+    "title": "#2310 : Trigger search when changing the type of symbol searched",
+    "login": "ThomasCrevoisier",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2320",
+    "title": "Migrate to Jest tools",
+    "login": "jasonLaster",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2334",
+    "title": "fix console error for selectedLocation",
+    "login": "jbhoosreddy",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2312",
+    "title": "Add a parser worker to the project.",
+    "login": "wldcordeiro",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2342",
+    "title": "converted src/components/App.js to es6",
+    "login": "AnshulMalik",
+    "date": "03/12/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2331",
+    "title": "Fixes Editor Height",
+    "login": "magsout",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2352",
+    "title": "Es module secondary panes",
+    "login": "clarkbw",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2348",
+    "title": "convert WelcomeBox to es modules",
+    "login": "clarkbw",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2349",
+    "title": "Update devtools-source-map to the latest version 🚀",
+    "login": "greenkeeper[bot]",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2344",
+    "title": "Polish colors in dark theme",
+    "login": "amitzur",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2332",
+    "title": "[EditorSearch] Improve searchbar and search performance on large files",
+    "login": "ryanjduffy",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2360",
+    "title": "bump to launchpad 56",
+    "login": "jasonLaster",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2356",
+    "title": "#2335 : Mention the debugger examples repo on the getting setup docs",
+    "login": "ThomasCrevoisier",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2354",
+    "title": "update jest command",
+    "login": "jasonLaster",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2358",
+    "title": "Fix typo in transition timing property value",
+    "login": "irfanhudda",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2361",
+    "title": "Update docker image",
+    "login": "jasonLaster",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2353",
+    "title": "Refactor(ES6) src/components/SourcesTree.js",
+    "login": "AnshulMalik",
+    "date": "03/13/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2373",
+    "title": "preventDefault on mask context menu. Fixes #1592",
+    "login": "binarybaba",
+    "date": "03/14/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2367",
+    "title": "Refactor(ES6) src/components/SourceSearch.js",
+    "login": "AnshulMalik",
+    "date": "03/14/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2363",
+    "title": "bump source maps to 0.2.1",
+    "login": "jasonLaster",
+    "date": "03/14/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2357",
+    "title": "Remove overlay mask. Fixes #1952",
+    "login": "binarybaba",
+    "date": "03/14/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2368",
+    "title": "Add hover effect to close-btn-big",
+    "login": "irfanhudda",
+    "date": "03/14/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2377",
+    "title": "remove executable bit from files not needing it",
+    "login": "aklt",
+    "date": "03/15/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2376",
+    "title": "Refactor(ES6) components/Editor/Tabs.js",
+    "login": "AnshulMalik",
+    "date": "03/15/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2375",
+    "title": "use uptodate docker",
+    "login": "jasonLaster",
+    "date": "03/16/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2374",
+    "title": "remove flash of 'not avaliable'",
+    "login": "bomsy",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2389",
+    "title": "Add prettier",
+    "login": "bomsy",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2383",
+    "title": "Overlap breakpoints list scrollbar (#1997) #goodnessSquad",
+    "login": "noamshemesh",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2384",
+    "title": "chore: localized keyshortcuts - #goodnessSquad (#2382)",
+    "login": "karenyavine",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2385",
+    "title": "Show message when there are no sources for a page (no files to debug)",
+    "login": "ktamir",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2380",
+    "title": "Refactor(ES6) components/shared/Button/*",
+    "login": "AnshulMalik",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2400",
+    "title": "Rename `up for grabs` with `available` ",
+    "login": "sole",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2271",
+    "title": "Preview variables from outer scopes",
+    "login": "julienw",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2316",
+    "title": "Show hostname first (#1374)",
+    "login": "Dalimil",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2403",
+    "title": "Tweak close-btn styles",
+    "login": "irfanhudda",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2318",
+    "title": "[Breakpoints] persist across sessions",
+    "login": "arthur801031",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2386",
+    "title": "Css fixes",
+    "login": "yuliaSharabi",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2365",
+    "title": "[WIP] Move search state to redux",
+    "login": "wldcordeiro",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2391",
+    "title": "Convert SecondaryPanes to ES6 classes",
+    "login": "ryanjduffy",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2401",
+    "title": "Jest cleanup",
+    "login": "jasonLaster",
+    "date": "03/17/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2366",
+    "title": "Persist expressions",
+    "login": "bomsy",
+    "date": "03/18/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2408",
+    "title": "accommodate objects without a prototype (fixes #2407)",
+    "login": "mykmelez",
+    "date": "03/18/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2409",
+    "title": "Fix close function in ProjectSearch",
+    "login": "irfanhudda",
+    "date": "03/18/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2410",
+    "title": "Bring editor preview to foreground",
+    "login": "AnshulMalik",
+    "date": "03/19/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2415",
+    "title": "lint fix for webpack.config.js",
+    "login": "gasolin",
+    "date": "03/21/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2420",
+    "title": "Re-add accordion focus inner style",
+    "login": "jasonLaster",
+    "date": "03/22/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2422",
+    "title": "Fix table layout for markdown on GitHub",
+    "login": "wildskyf",
+    "date": "03/22/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2404",
+    "title": "[FunctionSearch] name functions based on their var",
+    "login": "ruturajv",
+    "date": "03/22/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2417",
+    "title": "Jest coverage",
+    "login": "clarkbw",
+    "date": "03/23/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2432",
+    "title": "[prettier] switch es5 commas",
+    "login": "jasonLaster",
+    "date": "03/23/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2423",
+    "title": "[docs] add table markdown linting",
+    "login": "jasonLaster",
+    "date": "03/23/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2430",
+    "title": "Stop the previously highlighted line flashing after refreshing the debugger.",
+    "login": "samjwalker",
+    "date": "03/23/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2431",
+    "title": "[tests] Fix requiring workers in jest",
+    "login": "jasonLaster",
+    "date": "03/24/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2369",
+    "title": "Add 3/14 weekly updates",
+    "login": "jasonLaster",
+    "date": "03/24/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2445",
+    "title": "Fix duplicate locale",
+    "login": "jasonLaster",
+    "date": "03/24/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2456",
+    "title": "broken table fixed",
+    "login": "abhishekg785",
+    "date": "03/25/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2454",
+    "title": "Fix duplicate locale",
+    "login": "jasonLaster",
+    "date": "03/25/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2459",
+    "title": "Bump source-map to 2.2.4",
+    "login": "jasonLaster",
+    "date": "03/26/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2452",
+    "title": "Fixing Bug #2451 - AssignmentExpression Functions in search",
+    "login": "ruturajv",
+    "date": "03/26/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2458",
+    "title": "Update devtools-launchpad to the latest version 🚀",
+    "login": "greenkeeper[bot]",
+    "date": "03/26/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2449",
+    "title": "3/21 Updates",
+    "login": "jasonLaster",
+    "date": "03/27/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2466",
+    "title": "Add a separate highlight animation for dark theme",
+    "login": "jacobjzhang",
+    "date": "03/27/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2457",
+    "title": "3rd party docs",
+    "login": "jasonLaster",
+    "date": "03/27/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2462",
+    "title": "Upgrade to flow `0.41`",
+    "login": "arthur801031",
+    "date": "03/27/2017"
+  },
+  {
+    "url": "https://github.com/devtools-html/debugger.html/pull/2464",
+    "title": "Refactor(ES6) components/shared/Dropdown.js",
+    "login": "AnshulMalik",
+    "date": "03/27/2017"
   }
 ]
